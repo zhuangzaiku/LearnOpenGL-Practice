@@ -45,7 +45,7 @@ set(CHAPTERS
 set(1.getting_started
         1.1.hello_window
         1.2.hello_window_clear
-#        2.1.hello_triangle
+        2.1.hello_triangle
 #        2.2.hello_triangle_indexed
 #        2.3.hello_triangle_exercise1
 #        2.4.hello_triangle_exercise2
