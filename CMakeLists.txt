@@ -58,7 +58,7 @@ set(1.getting_started
 #        4.4.textures_exercise2
 #        4.5.textures_exercise3
 #        4.6.textures_exercise4
-#        5.1.transformations
+        5.1.transformations
 #        5.2.transformations_exercise2
 #        6.1.coordinate_systems
 #        6.2.coordinate_systems_depth
